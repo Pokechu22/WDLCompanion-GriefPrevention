@@ -3,9 +3,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>pokechu22.plugins</groupId>
 	<artifactId>WDLCompanionGriefPreventionSupport</artifactId>
-	<version>0.0.1</version>
+	<version>1.0.0</version>
 	<name>GriefPrevention support for WDLCompanion</name>
-	<description></description>
+	<description>Adds a new ChunkOverride type, "Owned GriefPrevention claims", which allows players to download in their GriefPrevention claims.</description>
 	<build>
 		<plugins>
 			<plugin>
