@@ -53,6 +53,6 @@ public class GriefPreventionSupportPlugin extends JavaPlugin implements Listener
 	
 	@EventHandler
 	public void registerRangeGroupTypes(RangeGroupTypeRegistrationEvent e) {
-		
+		e.addRegistration("Owned GriefPrevention claims", new OwnedClaimRangeGroupType());
 	}
 }
