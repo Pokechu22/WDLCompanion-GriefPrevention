@@ -1,0 +1,7 @@
+name: WDLCompanionGriefPreventionSupport
+main: wdl.griefprevention.GriefPreventionSupportPlugin
+version: 0.0.0
+author: Pokechu22
+depend: [WDLCompanion, GriefPrevention]
+website: http://dev.bukkit.org/bukkit-plugins/wdl-companion-griefprevention-support/
+description: 
